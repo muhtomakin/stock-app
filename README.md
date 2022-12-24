@@ -1,9 +1,11 @@
-# Redux Toolkit Ornegi
+# Stock App
+
+To see the project on live [Click](https://ornate-chimera-cc7166.netlify.app)
 
 ## `Install`
 
 ```
-npm install veya yarn
+npm install or yarn
 ```
 
 ## `Libraries`
@@ -24,6 +26,3 @@ npm install veya yarn
 - URL:
   const url = `https://newsapi.org/v2/top-headlines?country=tr&apiKey=${API_KEY}`;
 
-## `Tools`
-
-- `Redux Dev Tools` : Chrome uzerinde calisan ve global state uzerinde yapilan tum degisikliklerin takip edilmesini saglayan tarayici uzantisidir. Indirmek icin [Click](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)`
